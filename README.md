@@ -1,2 +1,0 @@
-# CarouselTraining
-Created with CodeSandbox
